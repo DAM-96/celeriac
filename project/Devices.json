@@ -1,0 +1,9 @@
+{
+    "SampleDevice": {
+        "uuid": "sampleuuid",
+        "OS": "Android",
+        "OSVer": 10,
+        "AutomationName": "Espresso",
+        "DeviceName": "Xiaomi 12T"
+    }
+}

@@ -1,0 +1,1 @@
+Contains all the applications to be tested or installed under the mobile device for further testing.
