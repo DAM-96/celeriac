@@ -23,6 +23,7 @@ function getDevicesList(){
     //Transforms the string list into an array with all the connected devices and returns it
     devicesList = devicesList.split(/\r?\n/);
     devicesList.shift();
+    //Clean the empty lines from the devices list
     while(devicesList[devicesList.length-1] == "" && devicesList.length > 1){
         devicesList.pop();
     }
