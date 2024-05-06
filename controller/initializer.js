@@ -12,3 +12,4 @@ function createDevicesList(){
     
 }
 
+exports.loadDevices = loadDevices
